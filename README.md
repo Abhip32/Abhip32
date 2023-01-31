@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhishek Patil
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning BE (Information Technology)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing BE (Information Technology)
 - 📫 How to reach me mail me at abhishek.a.patil112@gmail.com
 
 <!---
